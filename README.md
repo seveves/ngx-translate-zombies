@@ -9,6 +9,10 @@ in the current workspace and shows unused keys inside a diff editor.
 When having a ngx-translate translation file opened, you can hit F1 and type ```ngxtz: find translation zombies in this file```.
 A diff editor will be openend showing the recommended changes. That's it.
 
+## Contribute / Bugs / Feature Requests / Help
+
+Create your issues [here](https://github.com/seveves/ngx-translate-zombies)
+
 ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
