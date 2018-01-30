@@ -1,6 +1,6 @@
 # ngx-translate-zombies
 
-This extension should be used withe angular translation library [ngx-translate](https://github.com/ngx-translate/core)
+This extension should be used with angular translation library [ngx-translate](https://github.com/ngx-translate/core).
 It searches translation keys (normally located in a [language-code].json file) in .ts, .js or .html files
 in the current workspace and shows unused keys inside a diff editor.
 
